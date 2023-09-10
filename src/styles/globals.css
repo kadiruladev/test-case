@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input:focus{
+  box-shadow: none;
+  outline: none;
+}
+
+button{
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+}
